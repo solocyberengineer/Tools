@@ -5,4 +5,4 @@ My own personal tools I have created from what i've learned on online penetratio
 ### Tools I Built:<br>
 | Name | Description |
 | --- | --- |
-| [Link Scraper]() | This tool scrapes all links possible from the link you give it |
+| [Web Discover]() | This tool scrapes all links possible from the link you give it |
